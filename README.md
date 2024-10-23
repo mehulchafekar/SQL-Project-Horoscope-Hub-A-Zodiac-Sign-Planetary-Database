@@ -6,9 +6,9 @@
 This project not only deepened my understanding of SQL but also opened up new ways to explore data in a unique field.
 
 ## 📊 Project Overview
-🌟 HoroscopeHub is a comprehensive astrology database system I designed to explore the cosmic relationships between zodiac signs, planets, birth charts, and horoscopes. This project bridges the gap between the mystical world of astrology and data science, allowing efficient query-based insights into celestial patterns.
+ HoroscopeHub is a comprehensive astrology database system I designed to explore the cosmic relationships between zodiac signs, planets, birth charts, and horoscopes. This project bridges the gap between the mystical world of astrology and data science, allowing efficient query-based insights into celestial patterns.
 
-## Key Highlights:**
+## Key Highlights:
 
 Relational database built with SQL
 Data analysis of planetary positions and zodiac sign influence
